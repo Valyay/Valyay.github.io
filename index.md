@@ -1,8 +1,8 @@
 Валяев Евгений Андреевич P41071
 
 - XML Intro: [https://github.com/Valyay/itmo_xml](https://github.com/Valyay/itmo_xml)
-- func_001: [func_001](https://github.com/Valyay/Valyay.github.io/func_001.js)
-- func_002: [func_002](https://github.com/Valyay/Valyay.github.io/func_002.js)
+- func_001: [func_001](https://github.com/Valyay/Valyay.github.io/blob/master/func_001.js)
+- func_002: [func_002](https://github.com/Valyay/Valyay.github.io/blob/master/func_002.js)
 - func_003: [func_003](https://kodaktor.ru/func_8d40c)
 - func_004: [func_004](https://kodaktor.ru/func_10da7)
 - func_005: [func_005](https://kodaktor.ru/func_e682f)
