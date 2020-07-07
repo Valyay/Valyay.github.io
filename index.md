@@ -7,3 +7,4 @@
 - func_005: [func_005](https://kodaktor.ru/func_e682f)
 - func_006: [func_006](https://kodaktor.ru/func_74f12)
 - func_007: [func_007](https://kodaktor.ru/func_b5adb)
+- func_008: [func_008](https://kodaktor.ru/func_46d55)
