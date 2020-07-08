@@ -14,3 +14,4 @@
 - evnt_002: [evnt_002](https://kodaktor.ru/custom_8cfe6)
 - YOU: [YOU](https://github.com/Valyay/Valyay.github.io/tree/master/you-master)
 - frmw_001: [frmw_001](https://github.com/Valyay/Valyay.github.io/tree/master/frmw_001)
+- frmw_002: [frmw_002](https://github.com/Valyay/Valyay.github.io/tree/master/frmw_002)
