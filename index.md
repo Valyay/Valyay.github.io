@@ -10,3 +10,4 @@
 - func_007: [func_007](https://kodaktor.ru/func_b5adb)
 - func_008: [func_008](https://kodaktor.ru/func_46d55)
 - func_009: [func_009](https://kodaktor.ru/func_a5a0e)
+- babl_002: [babl_002](https://kodaktor.ru/bind02032018_413be)
