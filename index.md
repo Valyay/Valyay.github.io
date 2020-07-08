@@ -11,3 +11,4 @@
 - func_008: [func_008](https://kodaktor.ru/func_09bab)
 - func_009: [func_009](https://kodaktor.ru/func_6453d)
 - babl_002: [babl_002](https://kodaktor.ru/bind02032018_1ccf9)
+- evnt_002: [evnt_002](https://kodaktor.ru/custom_8cfe6)
