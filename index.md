@@ -11,6 +11,7 @@
 - func_008: [func_008](https://kodaktor.ru/func_09bab)
 - func_009: [func_009](https://kodaktor.ru/func_6453d)
 - func_010: [func_010](https://github.com/Valyay/Valyay.github.io/blob/master/func_010.js)
+- async_tasks: [async_tasks](https://codepen.io/Valyay/pen/abdGWBv)
 - babl_002: [babl_002](https://kodaktor.ru/bind02032018_1ccf9)
 - evnt_002: [evnt_002](https://kodaktor.ru/custom_8cfe6)
 - YOU: [YOU](https://github.com/Valyay/Valyay.github.io/tree/master/you-master)
