@@ -1,33 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
-
 <rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" xmlns:turbo="http://turbo.yandex.ru" version="2.0">
     <channel>
-
-        <title>Руководства по эксплуатации автомобилей LADA и их модификаций</title>
-        <link>https://valyay.github.io</link>
-        <description>Руководства по эксплуатации автомобилей LADA</description>
+        <title>TestTurbo</title>
+        <link>https://valyay.github.io/</link>
+        <description />
         <language>ru</language>
-        <author>https://valyay.github.io</author>
-        <yandex:analytics type="Yandex" id="000000" />
         <item turbo="true">
-            <description>Руководства по эксплуатации
-автомобилей LADA</description>
-            <title>Руководства по эксплуатации автомобилей LADA и их модификаций</title>
-            <link>https://valyay.github.io</link>
-            <category>Официальный сайт</category>
-
+            <link>https://valyay.github.io/</link>
             <turbo:content>
-                <![CDATA[<header><menu></menu></header> 
-
- 
- 
-<p>
- 
- <p>
- © Copyright 2020 <a href="https://valyay.github.io"><strong>valyay.github.io</strong></a> - All Rights Reserved
- </p>
- 
- ]]>
+                <![CDATA[
+					<header>
+						<h1>Рандомный тестовый заголовок</h1>
+						<menu>
+							<a href="https://valyay.github.io/">Ссылка 1</a>
+							<a href="https://valyay.github.io/">Ссылка 2</a>
+							<a href="https://valyay.github.io/">Ссылка 3</a>
+						</menu>
+					</header>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+				]]>
             </turbo:content>
         </item>
     </channel>
