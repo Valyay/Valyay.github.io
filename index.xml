@@ -1,7 +1,7 @@
 <rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" xmlns:turbo="http://turbo.yandex.ru" version="2.0">
     <channel>
         <title>Название RSS-канала</title>
-        <link>http://www.example.com/</link>
+        <link>https://valyay.github.io/</link>
         <description>Краткое описание RSS-канала</description>
         <turbo:analytics type="Yandex" id="123456"></turbo:analytics>
         <turbo:adNetwork type="Yandex" id="идентификатор блока" turbo-ad-id="first_ad_place"></turbo:adNetwork>
@@ -21,10 +21,6 @@
                 </script>
             ]]>
         </turbo:adNetwork>
-        <yandex:related type="infinity">
-            <link url="http://www.example.com/other-page1.html">Текст ссылки</link>
-            <link url="http://www.example.com/other-page2.html">Текст ссылки</link>
-        </yandex:related>
         <item turbo="true">
             <link>https://valyay.github.io/</link>
             <author>Евгений Валяев</author>
